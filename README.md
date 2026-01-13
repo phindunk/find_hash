@@ -51,7 +51,3 @@ Then you can use:
 ```bash
 find_hash e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273cf8
 ```
-
-## ⚖️ License
-
-GNU General Public License v3.0
