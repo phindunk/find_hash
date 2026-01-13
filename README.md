@@ -2,7 +2,7 @@
 
 High-performance, offline hash type identification tool written in Rust.
 
-## 🚀 Usage
+## Usage
 
 ### Run with Cargo (Recommended for Dev)
 
@@ -38,7 +38,7 @@ Get machine-readable output for scripts:
 cargo run -- e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273cf8 --json
 ```
 
-## 📦 Installation (Optional)
+## Installation (Optional)
 
 If you want to use the `find_hash` command globally (without `cargo run`), install it:
 
@@ -51,3 +51,8 @@ Then you can use:
 ```bash
 find_hash e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273cf8
 ```
+
+Contributions are welcome — feel free to open an issue, submit a pull request or suggest improvements to help this repo grow.
+
+If you find this project useful, please give it a ⭐ to show your support!
+
